@@ -1,7 +1,7 @@
 API_ID       = 11264403
 API_HASH     = "c141f83588c377f60dfcf5512d19519a"
 BOT_TOKEN    = "6636253844:AAHnLdr3X2AJwao7jrSXV_JlS4jrt97Ez6c"
-SESSION      = ""
+SESSION      = "BQDDw2XPjj5D4sIA_Fak5g54tE_7U3Ga9zjbN_ntavg5CoO6krlXIKqahL4RN_9xFe-NatqPp_Ejq8QI1dE3cPvsdOjLMLInG5K8Qtq7AFqDH9GlCnIunVllCuupAngnNXbplh-i5aMzd-Z3ohfkrtD_NEUBgB4hBNHZXARgM54PvOpGlvxJaeuFz3Sw-9msk98oauGwTcrBU2HjW0vFgGrK_uYKtwbHV57tbi1DpwvqlVxFaIhnqy8ndqjCA-_pvfzQ3ajw5yw7Rm_35CvrGYQrOVGB1QS55EFYZbCD2g-7ct9kx3GiKCHcvyRvqCk24w3v-RAR1Yj-7SyzAUofRVYiAAAAAXSUamMA"
 DATABASE_URI = "mongodb+srv://Golamj:24423390@cluster0.2b0pdpa.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001950559128
 ADMIN        = 6250850915
